@@ -1,0 +1,191 @@
+{
+    page = 1;
+    results =     (
+                {
+            adult = 0;
+            "backdrop_path" = "/vsjBeMPZtyB7yNsYY56XYxifaQZ.jpg";
+            "genre_ids" =             (
+                28,
+                12,
+                14,
+                878
+            );
+            id = 209112;
+            "original_language" = en;
+            "original_title" = "Batman v Superman: Dawn of Justice";
+            overview = "Fearing the actions of a god-like Super Hero left unchecked, Gotham City\U2019s own formidable, forceful vigilante takes on Metropolis\U2019s most revered, modern-day savior, while the world wrestles with what sort of hero it really needs. And with Batman and Superman at war with one another, a new threat quickly arises, putting mankind in greater danger than it\U2019s ever known before.";
+            popularity = "67.15989500000001";
+            "poster_path" = "/6bCplVkhowCjTHXWv49UjRPn0eK.jpg";
+            "release_date" = "2016-03-23";
+            title = "Batman v Superman: Dawn of Justice";
+            video = 0;
+            "vote_average" = "5.95";
+            "vote_count" = 1046;
+        },
+                {
+            adult = 0;
+            "backdrop_path" = "/njv65RTipNSTozFLuF85jL0bcQe.jpg";
+            "genre_ids" =             (
+                28,
+                12,
+                878,
+                14
+            );
+            id = 140607;
+            "original_language" = en;
+            "original_title" = "Star Wars: The Force Awakens";
+            overview = "Thirty years after defeating the Galactic Empire, Han Solo and his allies face a new threat from the evil Kylo Ren and his army of Stormtroopers.";
+            popularity = "39.250399";
+            "poster_path" = "/vZpB8ezB1IqpxI9rx553TuGwDzJ.jpg";
+            "release_date" = "2015-12-15";
+            title = "Star Wars: The Force Awakens";
+            video = 0;
+            "vote_average" = "7.69";
+            "vote_count" = 3588;
+        },
+                {
+            adult = 0;
+            "backdrop_path" = "/n1y094tVDFATSzkTnFxoGZ1qNsG.jpg";
+            "genre_ids" =             (
+                28,
+                12,
+                35
+            );
+            id = 293660;
+            "original_language" = en;
+            "original_title" = Deadpool;
+            overview = "Based upon Marvel Comics\U2019 most unconventional anti-hero, DEADPOOL tells the origin story of former Special Forces operative turned mercenary Wade Wilson, who after being subjected to a rogue experiment that leaves him with accelerated healing powers, adopts the alter ego Deadpool. Armed with his new abilities and a dark, twisted sense of humor, Deadpool hunts down the man who nearly destroyed his life.";
+            popularity = "30.77769";
+            "poster_path" = "/inVq3FRqcYIRl2la8iZikYYxFNR.jpg";
+            "release_date" = "2016-02-09";
+            title = Deadpool;
+            video = 0;
+            "vote_average" = "7.18";
+            "vote_count" = 2552;
+        },
+                {
+            adult = 0;
+            "backdrop_path" = "/dkMD5qlogeRMiEixC4YNPUvax2T.jpg";
+            "genre_ids" =             (
+                28,
+                12,
+                878,
+                53
+            );
+            id = 135397;
+            "original_language" = en;
+            "original_title" = "Jurassic World";
+            overview = "Twenty-two years after the events of Jurassic Park, Isla Nublar now features a fully functioning dinosaur theme park, Jurassic World, as originally envisioned by John Hammond.";
+            popularity = "24.470081";
+            "poster_path" = "/jjBgi2r5cRt36xF6iNUEhzscEcb.jpg";
+            "release_date" = "2015-06-09";
+            title = "Jurassic World";
+            video = 0;
+            "vote_average" = "6.66";
+            "vote_count" = 4216;
+        },
+                {
+            adult = 0;
+            "backdrop_path" = "/qjn3fzCAHGfl0CzeUlFbjrsmu4c.jpg";
+            "genre_ids" =             (
+                28,
+                12,
+                18
+            );
+            id = 131634;
+            "original_language" = en;
+            "original_title" = "The Hunger Games: Mockingjay - Part 2";
+            overview = "With the nation of Panem in a full scale war, Katniss confronts President Snow in the final showdown. Teamed with a group of her closest friends \U2013 including Gale, Finnick, and Peeta \U2013 Katniss goes off on a mission with the unit from District 13 as they risk their lives to stage an assassination attempt on President Snow who has become increasingly obsessed with destroying her. The mortal traps, enemies, and moral choices that await Katniss will challenge her more than any arena she faced in The Hunger Games.";
+            popularity = "24.118838";
+            "poster_path" = "/w93GAiq860UjmgR6tU9h2T24vaV.jpg";
+            "release_date" = "2015-11-18";
+            title = "The Hunger Games: Mockingjay - Part 2";
+            video = 0;
+            "vote_average" = "6.73";
+            "vote_count" = 1444;
+        },
+                {
+            adult = 0;
+            "backdrop_path" = "/cBlnfR0n1GA2vPoUQNcbL9pb3VW.jpg";
+            "genre_ids" =             (
+                28,
+                53
+            );
+            id = 336004;
+            "original_language" = en;
+            "original_title" = Heist;
+            overview = "A father is without the means to pay for his daughter's medical treatment. As a last resort, he partners with a greedy co-worker to rob a casino. When things go awry they're forced to hijack a city bus.";
+            popularity = "21.025615";
+            "poster_path" = "/t5tGykRvvlLBULIPsAJEzGg1ylm.jpg";
+            "release_date" = "2015-11-13";
+            title = Heist;
+            video = 0;
+            "vote_average" = "5.26";
+            "vote_count" = 147;
+        },
+                {
+            adult = 0;
+            "backdrop_path" = "/tbhdm8UJAb4ViCTsulYFL3lxMCd.jpg";
+            "genre_ids" =             (
+                878,
+                53,
+                28,
+                12
+            );
+            id = 76341;
+            "original_language" = en;
+            "original_title" = "Mad Max: Fury Road";
+            overview = "An apocalyptic story set in the furthest reaches of our planet, in a stark desert landscape where humanity is broken, and most everyone is crazed fighting for the necessities of life. Within this world exist two rebels on the run who just might be able to restore order. There's Max, a man of action and a man of few words, who seeks peace of mind following the loss of his wife and child in the aftermath of the chaos. And Furiosa, a woman of action and a woman who believes her path to survival may be achieved if she can make it across the desert back to her childhood homeland.";
+            popularity = "20.920803";
+            "poster_path" = "/kqjL17yufvn9OVLyXYpvtyrFfak.jpg";
+            "release_date" = "2015-05-13";
+            title = "Mad Max: Fury Road";
+            video = 0;
+            "vote_average" = "7.4";
+            "vote_count" = 4275;
+        },
+                {
+            adult = 0;
+            "backdrop_path" = "/imSjsW6QRkH7fvhnqhQgjnbBBtd.jpg";
+            "genre_ids" =             (
+                28,
+                878,
+                53
+            );
+            id = 271110;
+            "original_language" = en;
+            "original_title" = "Captain America: Civil War";
+            overview = "Following the events of Age of Ultron, the collective governments of the world pass an act designed to regulate all superhuman activity. This polarizes opinion amongst the Avengers, causing two factions to side with Iron Man or Captain America, which causes an epic battle between former allies.";
+            popularity = "19.692935";
+            "poster_path" = "/5N20rQURev5CNDcMjHVUZhpoCNC.jpg";
+            "release_date" = "2016-04-27";
+            title = "Captain America: Civil War";
+            video = 0;
+            "vote_average" = "5.07";
+            "vote_count" = 23;
+        },
+                {
+            adult = 0;
+            "backdrop_path" = "/uS1SkjVviraGfFNgkDwe7ohTm8B.jpg";
+            "genre_ids" =             (
+                37,
+                18,
+                12,
+                53
+            );
+            id = 281957;
+            "original_language" = en;
+            "original_title" = "The Revenant";
+            overview = "In the 1820s, a frontiersman, Hugh Glass, sets out on a path of vengeance against those who left him for dead after a bear mauling.";
+            popularity = "19.240969";
+            "poster_path" = "/oXUWEc5i3wYyFnL1Ycu8ppxxPvs.jpg";
+            "release_date" = "2015-12-25";
+            title = "The Revenant";
+            video = 0;
+            "vote_average" = "7.22";
+            "vote_count" = 2214;
+        }
+    );
+    "total_pages" = 13110;
+    "total_results" = 262186;
+}

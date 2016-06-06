@@ -1,0 +1,19 @@
+PODS:
+  - Alamofire (3.2.1)
+  - Kingfisher (2.0.4)
+  - ObjectMapper (1.1.5)
+  - StretchHeader (1.0.4)
+
+DEPENDENCIES:
+  - Alamofire (= 3.2.1)
+  - Kingfisher (= 2.0.4)
+  - ObjectMapper (= 1.1.5)
+  - StretchHeader (= 1.0.4)
+
+SPEC CHECKSUMS:
+  Alamofire: f11d8624a05f5d39e0c99309b3e600a3ba64298a
+  Kingfisher: 8f1ec2c067ade2c549a1a594379b69c4b1ff81ab
+  ObjectMapper: 528b1a6677a6acac7747edd508576983e76a9148
+  StretchHeader: abf0d6a795e8e7bf4000752c65c85bf274686f41
+
+COCOAPODS: 0.39.0

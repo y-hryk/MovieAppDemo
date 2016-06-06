@@ -1,0 +1,6 @@
+framework module StretchHeader {
+  umbrella header "StretchHeader-umbrella.h"
+
+  export *
+  module * { export * }
+}

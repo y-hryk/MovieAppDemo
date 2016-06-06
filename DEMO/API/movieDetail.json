@@ -1,0 +1,67 @@
+{
+    adult = 0;
+    "backdrop_path" = "/n1y094tVDFATSzkTnFxoGZ1qNsG.jpg";
+    "belongs_to_collection" = "<null>";
+    budget = 58000000;
+    genres =     (
+                {
+            id = 28;
+            name = Action;
+        },
+                {
+            id = 12;
+            name = Adventure;
+        },
+                {
+            id = 35;
+            name = Comedy;
+        },
+                {
+            id = 10749;
+            name = Romance;
+        }
+    );
+    homepage = "http://www.foxmovies.com/movies/deadpool";
+    id = 293660;
+    "imdb_id" = tt1431045;
+    "original_language" = en;
+    "original_title" = Deadpool;
+    overview = "Based upon Marvel Comics\U2019 most unconventional anti-hero, DEADPOOL tells the origin story of former Special Forces operative turned mercenary Wade Wilson, who after being subjected to a rogue experiment that leaves him with accelerated healing powers, adopts the alter ego Deadpool. Armed with his new abilities and a dark, twisted sense of humor, Deadpool hunts down the man who nearly destroyed his life.";
+    popularity = "29.634814";
+    "poster_path" = "/k1QUCjNAkfRpWfm1dVJGUmVHzGv.jpg";
+    "production_companies" =     (
+                {
+            id = 306;
+            name = "Twentieth Century Fox Film Corporation";
+        },
+                {
+            id = 325;
+            name = "Marvel Entertainment, LLC";
+        },
+                {
+            id = 19551;
+            name = "Marvel Enterprises";
+        }
+    );
+    "production_countries" =     (
+                {
+            "iso_3166_1" = US;
+            name = "United States of America";
+        }
+    );
+    "release_date" = "2016-02-09";
+    revenue = 361000000;
+    runtime = 108;
+    "spoken_languages" =     (
+                {
+            "iso_639_1" = en;
+            name = English;
+        }
+    );
+    status = Released;
+    tagline = "Witness the beginning of a happy ending";
+    title = Deadpool;
+    video = 0;
+    "vote_average" = "7.2";
+    "vote_count" = 3252;
+}
